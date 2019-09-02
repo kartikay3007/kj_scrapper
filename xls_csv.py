@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import urllib.request
 import time
 from requests import get
-# from urllib3 import *
 import urlopen
 import re
 import time
